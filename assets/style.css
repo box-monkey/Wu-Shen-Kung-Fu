@@ -69,12 +69,13 @@ margin: 50px 350px;
 }
 /* footer styling */
 
-/* FAQ section*/
-
-#faq {
+#activePage {
     text-align: center;
     padding-top: 15px;
+    color: red;
 }
+
+/* FAQ section*/
 
 #quote {
     font-style: italic;
@@ -83,13 +84,13 @@ margin: 50px 350px;
     font-size: 20px;
 }
 
-#faqQContent {
-    font-size: 30px;
+#headerContent {
+    font-size: 25px;
     padding: 10px;
 }
 
-#faqPTagContent {
-    font-size: 25px;
+#paraContent {
+    font-size: 20px;
     padding: 5px;
     padding-bottom: 20px;
     margin: 15px;
